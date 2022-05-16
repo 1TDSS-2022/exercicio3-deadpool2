@@ -22,3 +22,16 @@
 .corpo div p{
     position: absolute;
 }
+
+.imagens {
+    border-radius: 5%;
+    font-size: 10px;
+    background-color:#fff;
+    padding: 4%;
+    text-align: center;
+    display: inline;
+}
+
+.imagens:not(:last-child){
+    margin-right: 20px;
+}
