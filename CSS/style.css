@@ -36,14 +36,8 @@ header a:hover{
     transition: 1s;
 }
 
-.divisoes{
-    display: flex;
-    flex-direction: column-reverse;
-}
-
 .container{
-    margin-left: 10px;
-    margin-left: 10px;
+    margin: 0% 10%;
     display: block;
     border: 2px solid black;
     box-shadow: 2px 2px 5px black;
@@ -71,9 +65,12 @@ span{
 .rodape{
     padding: 50px;
     opacity: 0.5 black;
-    font-size: 30px;
+    font-size: 15px;
     text-align: center;
     background-color: black;
     opacity: 0.5;
-    margin-top: 50px;
+    width: 90%;
+    height: 12px;
+    bottom: 0;
+    position: absolute;
 }
