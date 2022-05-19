@@ -1,0 +1,32 @@
+body{
+    background-color: red;
+    font-family: Verdana, sans-serif;
+    background-attachment: fixed;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+    font-weight: 20;
+}
+
+.conteiner{
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 2px solid black;
+    box-shadow: 2px 2px 5px black;
+    position: relative;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 150px;
+    padding-left: 5px;
+}
+
+p{
+    
+}
+
+footer{
+   
+}
