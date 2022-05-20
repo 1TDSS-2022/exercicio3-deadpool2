@@ -1,7 +1,6 @@
-body{
-
+body {
     background-color: red;
-    background: -o-linear-gradient(red 90%, black 20%);  
-
-
+    background-image: linear-gradient(black 20%, red 90% );
+    background-attachment: fixed;
+    color: white;
 }
